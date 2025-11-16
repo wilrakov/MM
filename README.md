@@ -8,6 +8,6 @@ C'est pour cela que mon programme est écrit en Bash et non en C, car je ne souh
 
 # Contributeurs
 Tout contributeur est le bienvenue.
-Pour ce faire, il vous suffit de faire un fork de mon repo puis effectuer un(e) pull request :).
+Pour ce faire, il vous suffit de faire un fork de mon repo puis effectuer un(e) pull request :)
 
 *wilrak0v, btw*
