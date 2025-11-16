@@ -6,6 +6,14 @@
 # MM - a simple music manager
 MM est un gestionnaire de musique simple écrit en Bash avec Dmenu, notify-send et MPV.
 
+# TODO
+- [ ] Lire une config et affecter des variables
+- [ ] Faire l'intégration MPV + dmenu
+- [ ] Faire des intégrations MPV + autres trucs
+- [ ] Écrire une petite documentation
+- [ ] Écrire un man
+- [ ] Faire un script d'autoinstallation
+
 # La philosophie UNIX
 Je suis un adepte de la philosophie UNIX : chaque programme fait un seul truc et on peut les assembler avec des pipelines ("|").
 Tout programme doit être lisible et modifiable.
