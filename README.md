@@ -1,7 +1,8 @@
+```Text
 .-.-.-..-.,-.
 | | | || . < 
 `-----'`-'`-'
-
+```
 # MM - a simple music manager
 MM est un gestionnaire de musique simple écrit en Bash avec Dmenu, notify-send et MPV.
 
